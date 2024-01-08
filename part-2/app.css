@@ -1,0 +1,14 @@
+.tweetHeader {
+    display: flex;
+}
+
+.headerItem {
+    margin-right: 10px;
+}
+
+.tweetContainer {
+    border: solid 1px grey;
+    background: black;
+    color: white;
+    padding: 20px;
+}
