@@ -1,7 +1,8 @@
-function App() {
-    return (
-      <div>
-        
-      </div>
-    );
-  }
+const App = () => (
+    <div>
+        <FirstComponent />
+        <NamedComponent name="Brenden" />
+    </div>
+)
+
+ReactDOM.render(<App/>, document.getElementById("root"));
