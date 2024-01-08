@@ -1,9 +1,3 @@
-// const Tweet = (props) => {
-//     return (
-//         {props.tweets.map(tweet => <p>{tweet.username}</p>)}
-//     )
-// }
-
 const Tweet = (props) => {
     return (
         <div>
